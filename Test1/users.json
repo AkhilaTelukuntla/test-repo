@@ -1,0 +1,39 @@
+{
+    "user1": {
+      "id":1,
+      "firstname":"Akhila",
+      "lastname":"Telukuntla",
+      "email":"akhila@gmail.com"
+    },
+  
+    "user2":  {
+      "id":2,
+      "firstname":"Sai",
+      "lastname":"dharma",
+      "email":"sai@gmail.com"
+    },
+  
+    "user3":  {
+      "id":3,
+      "firstname":"Yashwanth",
+      "lastname":"Ramaraju",
+      "email":"yashwanth@gmail.com"
+    },
+  
+    "user4": {
+      "id":4,
+      "firstname":"Rakesh",
+      "lastname":"Reddy",
+      "email":"rakesh@gmail.com"
+    },
+
+    "user5": {
+        "id":5,
+        "firstname":"siya",
+        "lastname":"sameer",
+        "email":"sameer@gmail.com"
+      }
+    
+    
+}
+
